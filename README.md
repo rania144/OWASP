@@ -9,12 +9,14 @@
 4. Exécution de la commande pour afficher le flag caché.
 
 **Preuve :**
-![Capture du terminal PowerShell](./image_71db2c.png)
+<img width="1892" height="556" alt="image" src="https://github.com/user-attachments/assets/082a94ca-2936-4ccf-8e4c-80144bec31d0" />
+
 
 **Flag obtenu :**
 `f2a29020ef3132e01dd61df97fd33ec8d7fcd1388cc9601e7db691d17d4d6188`
 
 <img width="1301" height="965" alt="image" src="https://github.com/user-attachments/assets/6d211782-fb0b-4494-ab23-802642a8a770" />. Elle montre le membre nommé "Flag GetThe".
+
 
 
 
