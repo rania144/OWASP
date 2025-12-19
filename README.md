@@ -11,8 +11,10 @@ Une injection SQL sur la page de recherche d'images permet d'extraire des donné
 
 4. Hachage du mot "albatroz" en SHA256 pour générer le flag final.
    <img width="945" height="487" alt="image" src="https://github.com/user-attachments/assets/56440512-96c6-4070-b0f6-eb46a2f6c5fc" />
+   <img width="945" height="339" alt="image" src="https://github.com/user-attachments/assets/43f3cd0a-2f66-475f-a495-0f8efd72896d" />
 
 
 **Flag obtenu :**
 `F2A29020EF3132E01DD61DF97FD33EC8D7FCD1388CC9601E7DB691D17D4D6188`
+
 
